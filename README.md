@@ -4,4 +4,4 @@ Developed a MySQL database for Lebanese laws with a team member, creating an ER 
 
 #Enhanced ER Diagram
 
-![Pasted image 20230815182508](https://github.com/SajedHamdna09/Database-System-Lebanese-Laws/Enhanced Er.pdf)
+![Image Description](https://github.com/SajedHamdan09/Database-System-Lebanese-Laws/blob/main/Relational%20Schema.jpeg)
