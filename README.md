@@ -14,6 +14,6 @@ Developed a MySQL database for Lebanese laws with a team member, creating an ER 
 
 
 ## User Interface
-![Image Description](https://github.com/SajedHamdan09/Database-System-Lebanese-Laws/blob/main/Relational_Schema.jpeg)
+![Image Description](https://github.com/SajedHamdan09/Database-System-Lebanese-Laws/blob/main/UI.png)
 
 
