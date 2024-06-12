@@ -3,7 +3,7 @@ Developed a MySQL database for Lebanese laws with a team member, creating an ER 
 
 
 ##Enhanced ER Diagram
-![Enhanced ER Diagram](https://github.com/SajedHamdan09/Database-System-Lebanese-Laws/blob/main/Enhanced_ER.pdf)
+![Enhanced ER Diagram](https://github.com/SajedHamdan09/Database-System-Lebanese-Laws/blob/main/Enhanced_ER.png)
 
 
 ## Relational Schema
